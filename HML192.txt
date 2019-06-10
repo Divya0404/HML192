@@ -1,0 +1,43 @@
+                                                                                                          ABSTRACT
+This abstract is about PIMA INDIAN DIABETES dataset.
+
+OBJECTIVE:
+
+The main objective of this Pima Indian Diabetes dataset is to predict whether the person has Diabetes or not.
+
+INTRODUCTION:
+
+The Pima Indian Diabetes dataset contains 769 rows and 9 columns.
+
+
+DETAILS OF PIMA DATASET:
+
+This dataset contains 9 columns,They are:
+	*Pregnancies
+	*Glucose
+	*BloodPressure 
+	*SkinThickness 
+	*Insulin
+	*BMI 
+	*DiabetesPedigreeFunction
+	*Age
+	*Outcome: 0 if the patient has diabetes or 1 if the patient doesn't have diabetes
+
+
+
+TRAINING AND TESTING:
+
+In this project we will be using 80% of data for training and 20% of data for testing.
+
+
+ALGORITHM:
+
+The output of this dataset is either 0 or 1.so,this comes under Binary Classification Problem.
+and the best way to solve this dataset is by using Logistic Regression Machine Learning Algorithm.
+
+
+
+
+
+
+
